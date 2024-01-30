@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an undergraduate student at [Sichuan University(SCU)](https://www.scu.edu.cn/), majoring in Computer Science & technology (Top-notch Program, a class of 15 elite students selected from 400+) . 
+Hi! I'm an undergraduate student at [Sichuan University(SCU)](https://www.scu.edu.cn/), majoring in Computer Science & technology (Top-notch Program, a class of 15 elite students selected from 400+) . 
 
 Currently, I am an undergraduate researcher assistant at [Institute of Network and Intelligent Systems](https://yj-zhou.github.io/) since Sep, 2022, advised by [Prof. Yinjie Zhou](https://cs.scu.edu.cn/info/1286/15957.htm). 
 
@@ -38,32 +38,28 @@ Currently, I am an undergraduate researcher assistant at [Institute of Network a
 - **2022  National Third Prize**, Lanqiao Cup
 - **2022  Huawei Mindspore Gold Quality Award**
 
-## Research Experience
+## Recent Research
 
-### Institute of Network and Intelligent Systems                 14 May, 2023 -- 26 July, 2023
+### Dc2former: Dual-Constrained and Self-Corrected Transformer for Time Series Forecasting                
 
 [school of Computing Summer Workshop 2023](https://sws.comp.nus.edu.sg/Home.html)
 
-Visiting Student                                                                                                                                   Advisor: [LOW Kok Lim](https://www.comp.nus.edu.sg/cs/people/lowkl/)
-
-**Course: Real-Time Graphics Rendering**
+_with [Prof. Lu Zhang](https://scholar.google.com/citations?user=u3N8K58AAAAJ&hl=en&oi=sra), Chengdu University of Information Technology and [Prof. Yinjie Zhou](https://cs.scu.edu.cn/info/1286/15957.htm), Sichuan University_                                                                                                                                 
 
 - Topics: Computer Graphics
 - In this workshop, students study the modern real-time rendering pipeline. It introduces modern and traditional real-time rendering techniques, and students learn to write shaders to implement these techniques for the GPU.
 - The syllabus includes multiple-pass rendering, shading & reflection models, procedural texture-mapping & shading, lights & shadows, non-photorealistic rendering, deferred shading, post-rendering processing, etc. 
 
-### Institute of Network and Intelligent Systems                 14 May, 2023 -- 26 July, 2023
+
+### CERTD: Continuous-Enhanced and Rapid insider Threat Detection                 
 
 [school of Computing Summer Workshop 2023](https://sws.comp.nus.edu.sg/Home.html)
 
-Visiting Student                                                                                                                                   Advisor: [LOW Kok Lim](https://www.comp.nus.edu.sg/cs/people/lowkl/)
-
-**Course: Real-Time Graphics Rendering**
+_with Di Wu, Sichuan University and [Prof. Yinjie Zhou](https://cs.scu.edu.cn/info/1286/15957.htm), Sichuan Unniversity_
 
 - Topics: Computer Graphics
 - In this workshop, students study the modern real-time rendering pipeline. It introduces modern and traditional real-time rendering techniques, and students learn to write shaders to implement these techniques for the GPU.
 - The syllabus includes multiple-pass rendering, shading & reflection models, procedural texture-mapping & shading, lights & shadows, non-photorealistic rendering, deferred shading, post-rendering processing, etc. 
-
 
 ## Projects
 
