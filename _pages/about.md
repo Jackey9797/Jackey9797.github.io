@@ -10,24 +10,22 @@ redirect_from:
 
 Hi! I am an undergraduate student at [Sichuan University(SCU)](https://www.scu.edu.cn/), majoring in Computer Science & technology (Top-notch Program, a class of 15 elite students selected from 400+) . 
 
-Currently, I am a undergraduate researcher assistant at [Institute of Network and Intelligent Systems](https://yj-zhou.github.io/) since Sep, 2022, advised by [Prof. Yinjie Zhou](https://cs.scu.edu.cn/info/1286/15957.htm). 
+Currently, I am an undergraduate researcher assistant at [Institute of Network and Intelligent Systems](https://yj-zhou.github.io/) since Sep, 2022, advised by [Prof. Yinjie Zhou](https://cs.scu.edu.cn/info/1286/15957.htm). 
 
 ## Education
 
 ### Bachelor: Sichuan University (2021.9 ~ )
 
 - **Major**：Computer Science and Technology, College of Computer Science
-- **Required Course GPA**：3.88/4.0
+- **GPA**：3.88/4.0
 - **Average Score**：91.23/100
 
 
 
 ## Research Interests
 
-- 3D Vision
-- Mobile Augmented Reality
-- Simultaneous localization and mapping(SLAM)
-- Computer Graphics
+- Data Mining(Anomaly Detection, Time Series Forecasting, Recommendation System)
+- Representation Learning & Self-Supervised Learning
 
 
 ## Award & Scholarships
