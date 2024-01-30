@@ -35,10 +35,7 @@ Currently, I am an undergraduate researcher assistant at [Institute of Network a
 
 _with [Prof. Lu Zhang](https://scholar.google.com/citations?user=u3N8K58AAAAJ&hl=en&oi=sra), Chengdu University of Information Technology and [Prof. Yinjie Zhou](https://cs.scu.edu.cn/info/1286/15957.htm), Sichuan University_                                                                                                                                 
 
-- Topics: Computer Graphics
-- In this workshop, students study the modern real-time rendering pipeline. It introduces modern and traditional real-time rendering techniques, and students learn to write shaders to implement these techniques for the GPU.
-- The syllabus includes multiple-pass rendering, shading & reflection models, procedural texture-mapping & shading, lights & shadows, non-photorealistic rendering, deferred shading, post-rendering processing, etc. 
-
+- We explored the task of noise-aware time series forecasting and addressed the vulnerability to noisy data inherent in current forecasting approaches. To achieve this, we proposed a generic learning framework with novel constrain design and an feature correction module, which helps mitigate such noise impact and achieve more stable and accurate forecasting.
 
 ### CERTD: Continuous-Enhanced and Rapid insider Threat Detection                 
 
@@ -46,10 +43,7 @@ _with [Prof. Lu Zhang](https://scholar.google.com/citations?user=u3N8K58AAAAJ&hl
 
 _with Di Wu, Sichuan University and [Prof. Yinjie Zhou](https://cs.scu.edu.cn/info/1286/15957.htm), Sichuan Unniversity_
 
-- Topics: Computer Graphics
-- In this workshop, students study the modern real-time rendering pipeline. It introduces modern and traditional real-time rendering techniques, and students learn to write shaders to implement these techniques for the GPU.
-- The syllabus includes multiple-pass rendering, shading & reflection models, procedural texture-mapping & shading, lights & shadows, non-photorealistic rendering, deferred shading, post-rendering processing, etc. 
-
+- We investigated the insider threat detection problem in real-world scenario and proposed a machine learning-based detection system which combines continual learning technique to ensure efficient learning from data stream and achieve effective real-time detection.
 ## Projects
 
 
