@@ -24,19 +24,8 @@ Currently, I am an undergraduate researcher assistant at [Institute of Network a
 
 ## Research Interests
 
-- Data Mining(Anomaly Detection, Time Series Forecasting, Recommendation System)
+- Data Mining (Anomaly Detection, Time Series Forecasting, Recommendation System, etc)
 - Representation Learning & Self-Supervised Learning
-
-
-## Award & Scholarships
-
-- **2023  Meritorious Winner**, Mathematical Contest In Modeling(MCM/ICM)
-- **2023  National Third Prize**, Lanqiao Cup
-- **2023  Individual Third Prize**, Group Programming Ladder Tournament
-- **2023  Third Prize**,  “Challenge and Guess” for Top-notch Student at Sichuan University
-- **2022  Bronze Meda**, ICPC Asia Regional Contest Xian Site
-- **2022  National Third Prize**, Lanqiao Cup
-- **2022  Huawei Mindspore Gold Quality Award**
 
 ## Recent Research
 
@@ -62,6 +51,15 @@ _with Di Wu, Sichuan University and [Prof. Yinjie Zhou](https://cs.scu.edu.cn/in
 - The syllabus includes multiple-pass rendering, shading & reflection models, procedural texture-mapping & shading, lights & shadows, non-photorealistic rendering, deferred shading, post-rendering processing, etc. 
 
 ## Projects
+
+
+## Award & Scholarships
+
+- 2023  Annual Scholarship of the Programme for Excellant in Basic Disciplines
+- 2023  Gold Quality Award in Huawei Mindspore Application Project
+- 2023  Second Prize in China Undergraduate Mathematical Contest in Modeling
+- Second Prize in Sichuan University Tencent Cup Programming Competition
+- First Prize in Lanqiao Cup Programming Competition
 
 ## Programming Skills
 
