@@ -4,7 +4,7 @@ main:
     url: /portfolio/
         
   - title: "Blog"
-    url: /year-archive/
+    url: https://www.cnblogs.com/list1
     
   - title: "CV"
     url: /cv/
