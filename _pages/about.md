@@ -47,6 +47,7 @@ _with Di Wu, Sichuan University and [Prof. Yinjie Zhou](https://cs.scu.edu.cn/in
 - I played a role in conducting extensive literature reviews within the domain of continual learning and reproducing code for baseline models.
   
 ## Projects
+
 | Course/Competition  | Project Name  | link  |
 |---|---|---|
 | Massive Data Processing and Intelligent Decision  | Douban Book Classification System Based on Text Classification  |  [Course work](../files/Douban.pdf) |
