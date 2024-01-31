@@ -1,6 +1,6 @@
 ---
 title: "Participated in the CNCC2023 conference in Shenyang as a student, December 2023."
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/CNCC1.png'><img src='/images/CNCC2.png'>"
 collection: portfolio
 ---
 
