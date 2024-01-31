@@ -1,6 +1,6 @@
 ---
-title: "Participated in the CNCC2023 conference in Shenyang as a student, December 2023."
-excerpt: "<br/><img src='/images/CNCC1.png'><img src='/images/CNCC2.png'>"
+title: ""
+excerpt: "Participated in the CNCC2023 conference in Shenyang as a student, December 2023.<br/><img src='/images/CNCC1.png'><img src='/images/CNCC2.png'>"
 collection: portfolio
 ---
 
