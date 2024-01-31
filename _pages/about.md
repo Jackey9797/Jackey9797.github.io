@@ -31,7 +31,7 @@ Currently, I am an undergraduate researcher assistant at [Institute of Network a
 ### Dc$^2$former: Dual-Constrained and Self-Corrected Transformer for Time Series Forecasting                
 
 _with [Prof. Lu Zhang](https://scholar.google.com/citations?user=u3N8K58AAAAJ&hl=en&oi=sra), Chengdu University of Information Technology and [Prof. Yinjie Zhou](https://cs.scu.edu.cn/info/1286/15957.htm), Sichuan University_                                                                                                                                 
-![Illustration of Proposed Dc$^2$former](../images/Dcformer.jpg)
+![Illustration of Proposed Dc$^2$former](../images/Dcformer.png)
 
 - Our research focused on improving time series forecasting models by addressing the affects posed by noisy data. We introduced a novel learning framework based on feature-level corretion to mitigate the impact of noise and improve the  accuracy of forecasting.
 - For representative advanced time transformers, experiemtal results on both metrics showed satisfactory performance, greatly promoting the application of transformer-based models.
@@ -41,7 +41,7 @@ _with [Prof. Lu Zhang](https://scholar.google.com/citations?user=u3N8K58AAAAJ&hl
 
 _with Di Wu, Sichuan University and [Prof. Yinjie Zhou](https://cs.scu.edu.cn/info/1286/15957.htm), Sichuan Unniversity_
 
-![Illustration of Proposed CERTD](../images/CERTD.jpg)
+![Illustration of Proposed CERTD](../images/CERTD.png)
 
 - Our research delved into addressing the challenge of insider threat detection with real-world streaming data. We introduced a machine learning-based detection system that integrates continual learning techniques, ensuring efficient adaptation to evolving data streams and enabling effective real-time threat detection.
 - I played a role in conducting extensive literature reviews within the domain of continual learning and reproducing code for baseline models.
