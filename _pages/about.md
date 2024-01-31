@@ -21,7 +21,6 @@ Currently, I am an undergraduate researcher assistant at [Institute of Network a
 - **Average Score**：91.23/100
 
 
-
 ## Research Interests
 
 - Data Mining (Anomaly Detection, Time Series Forecasting, Recommendation System, etc)
@@ -29,21 +28,24 @@ Currently, I am an undergraduate researcher assistant at [Institute of Network a
 
 ## Recent Research
 
-### Dc2former: Dual-Constrained and Self-Corrected Transformer for Time Series Forecasting                
-
-[school of Computing Summer Workshop 2023](https://sws.comp.nus.edu.sg/Home.html)
+### Dc$^2$former: Dual-Constrained and Self-Corrected Transformer for Time Series Forecasting                
 
 _with [Prof. Lu Zhang](https://scholar.google.com/citations?user=u3N8K58AAAAJ&hl=en&oi=sra), Chengdu University of Information Technology and [Prof. Yinjie Zhou](https://cs.scu.edu.cn/info/1286/15957.htm), Sichuan University_                                                                                                                                 
+[Illustration of Proposed Dc$^2$former](../images/Dcformer.jpg)
 
-- We explored the task of noise-aware time series forecasting and addressed the vulnerability to noisy data inherent in current forecasting approaches. To achieve this, we proposed a generic learning framework with novel constrain design and an feature correction module, which helps mitigate such noise impact and achieve more stable and accurate forecasting.
+- Our research focused on improving time series forecasting models by addressing the affects posed by noisy data. We introduced a novel learning framework based on feature-level corretion to mitigate the impact of noise and improve the stability and accuracy of forecasting.
+- For representative advanced time transformers, experiemtal results on both metrics showed satisfactory performance, greatly promoting the application of transformer-based models.
+- Currently working on a paper that is expected to be submitted to IJCAI2024.
 
 ### CERTD: Continuous-Enhanced and Rapid insider Threat Detection                 
 
-[school of Computing Summer Workshop 2023](https://sws.comp.nus.edu.sg/Home.html)
-
 _with Di Wu, Sichuan University and [Prof. Yinjie Zhou](https://cs.scu.edu.cn/info/1286/15957.htm), Sichuan Unniversity_
 
+[Illustration of Proposed Dc$^2$former](../images/CERTD.jpg)
+
 - We investigated the insider threat detection problem in real-world scenario and proposed a machine learning-based detection system which combines continual learning technique to ensure efficient learning from data stream and achieve effective real-time detection.
+
+  
 ## Projects
 
 
